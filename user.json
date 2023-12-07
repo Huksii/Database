@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Miss",
+                "first": "Avery",
+                "last": "Fletcher"
+            },
+            "location": {
+                "street": {
+                    "number": 6360,
+                    "name": "Patrick Street"
+                },
+                "city": "Cashel",
+                "state": "Waterford",
+                "country": "Ireland",
+                "postcode": 98600,
+                "coordinates": {
+                    "latitude": "2.5467",
+                    "longitude": "167.2419"
+                },
+                "timezone": {
+                    "offset": "+11:00",
+                    "description": "Magadan, Solomon Islands, New Caledonia"
+                }
+            },
+            "email": "avery.fletcher@example.com",
+            "login": {
+                "uuid": "244faa3e-f182-4f85-b8e8-5cdd0a03b61e",
+                "username": "orangefrog786",
+                "password": "teddybea",
+                "salt": "hGh0Gt8I",
+                "md5": "7b136df6a183d0a641321e06ee8f3420",
+                "sha1": "0ae899c9fa2875b80d66931bb14bd12013228320",
+                "sha256": "34b37153c2de15dbc9cbfe180d8ecf162d5ee3b98c01ea3dc4e2616aa90d5d9d"
+            },
+            "dob": {
+                "date": "1993-07-26T05:36:15.992Z",
+                "age": 30
+            },
+            "registered": {
+                "date": "2018-11-30T04:42:07.413Z",
+                "age": 4
+            },
+            "phone": "051-027-3090",
+            "cell": "081-996-9139",
+            "id": {
+                "name": "PPS",
+                "value": "1284315T"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/4.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/4.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/4.jpg"
+            },
+            "nat": "IE"
+        }
+    ],
+    "info": {
+        "seed": "588f7ed62562be46",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
